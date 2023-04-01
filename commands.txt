@@ -5,3 +5,4 @@ git add -A =>adding all to staging area
 git commit -m "first" =>moving stage to local repositary
 
 done.......................
+git remote add anyvariable pathorlink
