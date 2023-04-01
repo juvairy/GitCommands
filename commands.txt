@@ -1,5 +1,7 @@
 git init=>initialization
 git status=> to track untracked files
+
 git add -A =>adding all to staging area
 git commit -m "first" =>moving stage to local repositary
 
+done.......................
